@@ -15,6 +15,6 @@ CLOUD_SECRET_KEY=sua secret_key
 6. Crie um superusuário para acesso ao painel de administração: `python manage.py createsuperuser`.
 7. Inicie o servidor de desenvolvimento: `python manage.py runserver`.
 
-Veja o tutorial para obter suas credencias de API na plataforma Cloudinary
+Veja o [tutorial](https://dev.to/aghastygd/integracao-do-cloudinary-ao-seu-projeto-django-gratuitamente-8pm) e aprenda como obter suas credencias de API na plataforma Cloudinary.
 
 ## Enjoy! ❤️
